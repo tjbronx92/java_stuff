@@ -1,3 +1,4 @@
+package conditionals04;
 import java.util.Scanner;
 
 public class evenodd {

@@ -1,3 +1,4 @@
+package conditionals04;
 public class conditional {
     public static void main(String[] args){
         int x=5, y = 4;
